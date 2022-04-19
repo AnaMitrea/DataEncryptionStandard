@@ -8,4 +8,4 @@ Implementarea criptosistemului DES
 
 https://profs.info.uaic.ro/~siftene/DES-Boxes.html
 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200306124326/Steps-in-DES.png>
+![image](https://media.geeksforgeeks.org/wp-content/uploads/20200306124326/Steps-in-DES.png)
